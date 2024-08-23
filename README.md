@@ -2,7 +2,7 @@
 
 Welcome to **DarkPulse**, the ultimate portfolio template crafted for designers and developers who want to showcase their work in a visually stunning, futuristic environment. Featuring a sleek dark theme with vibrant neon accents, DarkPulse offers a modern and interactive way to present your projects, skills, and experience.
 
-![DarkPulse Demo](https://via.placeholder.com/1200x600?text=DarkPulse+Demo) <!-- Replace with a real demo image -->
+![DarkPulse Mockup](https://darkpulse.my.canva.site/) <!-- Replace with the direct image URL if available -->
 
 ## 🚀 Features
 
@@ -28,23 +28,4 @@ Here's a glimpse of the project structure:
 ├── public
 │   ├── index.html
 │   └── ...
-├── src
-│   ├── assets
-│   │   └── sounds # Sound files used in the project
-│   ├── components
-│   │   └── ... # Reusable UI components
-│   ├── pages
-│   │   ├── Home
-│   │   │   └── Home.js
-│   │   ├── Signin
-│   │   │   └── Cadastro.js
-│   │   └── Signup
-│   │       └── Login.js
-│   ├── routes
-│   │   └── router.js
-│   ├── styles
-│   │   ├── global.css
-│   │   └── ...
-│   ├── App.js
-│   └── index.js
-└── package.json
+├
